@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 (WIP)
 
 ### Atualmente estudando Node e TypeScript 🔭
 
